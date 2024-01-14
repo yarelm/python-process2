@@ -1,2 +1,4 @@
 [project]
+name = "lib2"
 description = "Lovely Spam! Wonderful Spam!"
+version = "2020.0.0"
